@@ -27,3 +27,5 @@ My GitHub page is http://github.com/ianeanion
 * Lab 12
 
     Lab 12, part 1 was the most fun out of all. With creating three times of gradients with three different colors then adding them together to create an animation.  Even though it was first difficult and confusing, the outcome just came right since it produced an animation where the RGB colors had different patterns. 
+
+    I love computer science.
